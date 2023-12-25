@@ -1,4 +1,6 @@
 #include <bits/stdc++.h>
+#include "patient.h"
+
 using namespace std;
 
 int main()
@@ -23,6 +25,9 @@ int main()
         {
         case '1':
         {
+            patient p;
+            p.add_patient();
+            break;
         }
         }
     }
