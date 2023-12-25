@@ -1,5 +1,7 @@
 #include <bits/stdc++.h>
 #include "patient.h"
+#include "doctor.h"
+
 
 using namespace std;
 
@@ -27,6 +29,12 @@ int main()
         {
             patient p;
             p.add_patient();
+            break;
+        }
+        case '2':
+        {
+            doctor d;
+            d.doctor_list();
             break;
         }
         }
