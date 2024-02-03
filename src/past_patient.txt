@@ -1,0 +1,77 @@
+
+1
+kamal
+30
+B+
+22/10/2011MEAL
+MEAL
+01278888888
+badda,dhaka
+11:01
+13/11/2023
+5
+Md Sofik Ali
+34
+Male
+B+
+01478457584
+Dhanmondi,dhaka
+Hart attack
+1
+Cardiology
+rof. Dr. Sajal Banerjee
+11:07:36
+2023-11-17
+11:09:20
+2023-11-17
+1
+MD RIFAT ALL
+24
+Male
+AB
+01798542548
+Ponchogor,bangladesh
+love failor
+7
+Psychiatry
+Prof. Dr. Md. Abdus Salam
+0
+0
+23:35:47
+2023-11-16
+21:54:05
+2023-11-17
+2
+Md Sakib Sorkar
+24
+Male
+A+
+017984571542
+Thakurgao,dhaka
+Eair problem
+0
+Medicine
+Prof. Dr. Shohael Mahmud Arafat
+0
+0
+22:20:04
+2023-11-17
+22:21:12
+2023-11-17
+11
+Md Jamal 
+24
+M
+A+
+Null
+Null
+Hard Attack
+1
+Cardiology
+Prof. Dr. Sajal Banerjee
+0
+0
+21:10:43
+2023-12-25
+21:17:12
+2023-12-25

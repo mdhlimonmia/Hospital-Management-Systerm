@@ -1,0 +1,10 @@
+read >> gender;
+        // read.ignore();
+        // getline(read, department);
+        // read.ignore();
+        // getline(read, specialist);
+        // read.ignore();
+        // getline(read, collage);
+        // read.ignore();
+        // getline(read, phone);
+        // read.ignore();

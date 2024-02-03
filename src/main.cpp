@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
-#include "patient.h"
-#include "doctor.h"
-
+#include "authority.h"
+#include "about.h"
 
 using namespace std;
 
@@ -35,6 +34,45 @@ int main()
         {
             doctor d;
             d.doctor_list();
+            break;
+        }
+        case '3':
+        {
+            patient p;
+            p.search_patient();
+            break;
+        }
+        case '4':
+        {
+            // p.have_to_pay(p.search_patient());
+            break;
+        }
+        case '5':
+        {
+            patient p;
+            p.release_patient();
+            break;
+        }
+        case '6':
+        {
+            patient p;
+            p.update_patient_info();
+            break;
+        }
+        case '7':
+        {
+            Authority();
+            break;
+        }
+        case '8':
+        {
+            about();
+            break;
+        }
+        default:
+        {
+            if (n[0] != '0')
+                cout << "\nInvalid Choice....\n";
             break;
         }
         }
